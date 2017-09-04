@@ -1,9 +1,5 @@
 ﻿{
-<<<<<<< HEAD
-	"version": 1504554349,
-=======
-	"version": 1502732810,
->>>>>>> cf1e2890d4353c90ad0367d61ca5c6902a0829db
+	"version": 1504554582,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,17 +7,11 @@
 		"offlineClient.js",
 		"images/sprite2-sheet0.png",
 		"images/correio-sheet0.png",
-<<<<<<< HEAD
 		"images/correio-sheet1.png",
 		"images/correio-sheet2.png",
 		"images/sprite3-sheet0.png",
 		"images/carta2-sheet0.png",
 		"images/carta2-sheet1.png",
-=======
-		"images/sprite3-sheet0.png",
-		"images/azul-sheet0.png",
-		"images/lilas-sheet0.png",
->>>>>>> cf1e2890d4353c90ad0367d61ca5c6902a0829db
 		"images/amarelo-sheet0.png",
 		"images/logo-sheet0.png",
 		"images/nomelogo-sheet0.png",
@@ -33,14 +23,11 @@
 		"images/sprite13-sheet0.png",
 		"images/sprite14-sheet0.png",
 		"images/sprite-sheet0.png",
-<<<<<<< HEAD
 		"images/sprite17-sheet0.png",
 		"images/playmenu-sheet0.png",
 		"images/sprite18-sheet0.png",
 		"images/sprite19-sheet0.png",
 		"images/sprite20-sheet0.png",
-=======
->>>>>>> cf1e2890d4353c90ad0367d61ca5c6902a0829db
 		"media/fim.m4a",
 		"media/fim.ogg",
 		"media/trilha sonora.m4a",

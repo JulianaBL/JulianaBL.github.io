@@ -1,11 +1,6 @@
 ﻿{
-<<<<<<< HEAD
 	"name": "New project",
 	"short_name": "New project",
-=======
-	"name": "Ventania",
-	"short_name": "Ventania",
->>>>>>> cf1e2890d4353c90ad0367d61ca5c6902a0829db
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
