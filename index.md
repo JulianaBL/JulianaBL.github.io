@@ -14,7 +14,7 @@ Aluninho de jogos aprendendo a fazer um portfólio com prof, Marcelo Mesmo.
 
 [JOG01] ()
 
-[JOGO2] (JulianaBL.github.io/Ventania/)
+[![](jogo2.png) (JulianaBL.github.io/Ventania/)
 
 [JOGO3] (JulianaBL.github.io/LabyrinthFoodChain/)
 
