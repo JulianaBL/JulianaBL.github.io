@@ -16,6 +16,8 @@ Aluninho de jogos aprendendo a fazer um portfólio com prof, Marcelo Mesmo.
 
 [JOGO2] (JulianaBL.github.io/Ventania/)
 
+[JOGO3] (JulianaBL.github.io/LabyrinthFoodChain/)
+
 [TEXTO QUE VAI APARECER (link)
 
 
