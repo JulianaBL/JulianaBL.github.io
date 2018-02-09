@@ -21,9 +21,11 @@ Aluninho de jogos aprendendo a fazer um portfólio com prof, Marcelo Mesmo.
 
 ## Artes
 
-! [Cupcake] (https://s3.amazonaws.com/kandipatternspatterns/food/4543-Cupcake.png)
+![Cupcake] (https://s3.amazonaws.com/kandipatternspatterns/food/4543-Cupcake.png)
 
-! [Sorvete] (https://i.pinimg.com/736x/be/a9/fc/bea9fc89d259a120f42ee0e792d0a8df--kandi-sprites.jpg)
+![Sorvete] (https://i.pinimg.com/736x/be/a9/fc/bea9fc89d259a120f42ee0e792d0a8df--kandi-sprites.jpg)
+
+![NOME OPCIONAL] (link da imagem)
 
 
 
