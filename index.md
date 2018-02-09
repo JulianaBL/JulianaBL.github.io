@@ -29,7 +29,7 @@ Aluninho de jogos aprendendo a fazer um portfólio com prof, Marcelo Mesmo.
 
 ![NOME OPCIONAL](link da imagem)
 
-![](pooh)
+![](pooh.png)
 
 
 
