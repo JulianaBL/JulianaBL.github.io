@@ -5,6 +5,8 @@ layout: default
 Criando **minha**, _página_, ~~principal~~.
 
 # Quem sou eu
+
+![](Juliana.png)
  
 Meu nome é Juliana, estudo no Ifrn (Programação de Jogos Digitais)   
 Tiago Iorc (Crush)
