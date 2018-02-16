@@ -7,10 +7,8 @@ Criando **minha**, _página_, ~~principal~~.
 # Quem sou eu
 
 ![](Juliana.jpg)
- 
-Meu nome é Juliana, estudo no Ifrn (Programação de Jogos Digitais)   
-Tiago Iorc (Crush)
-Biblioteconomia/Administração
+Sou estudante do IFRN/Campus Ceará-Mirim, do curso técnico em Programação de Jogos Digitais. 
+Nessa página, vou adicionar algumas informaçãoes sobre minha pessoa.
 
 # Portfólio
 
