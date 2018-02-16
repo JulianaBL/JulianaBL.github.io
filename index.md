@@ -6,7 +6,10 @@ Criando **minha**, _página_, ~~principal~~.
 
 # Quem sou eu
 
-Sou uma pessoa que gosto de conhecer coisas novas, sou podree, e todos os dias no almoço como frango.. hummm.. Que Deliciaa
+.Aluna de Jogos Digitais
+.Touros RN
+É você que está visitando a minha página, saiba que A felicidade está nas coisas mais simples da vida..
+
 
 # Portfólio
 
