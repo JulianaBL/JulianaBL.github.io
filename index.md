@@ -6,8 +6,8 @@ Criando **minha**, _página_, ~~principal~~.
 
 # Quem sou eu
 
-.Aluna de Jogos Digitais
-.Touros RN
+Aluna de Jogos Digitais
+Touros RN
 É você que está visitando a minha página, saiba que A felicidade está nas coisas mais simples da vida..
 
 
