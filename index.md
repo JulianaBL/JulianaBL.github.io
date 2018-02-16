@@ -11,7 +11,7 @@ Sou estudante do IFRN/Campus Ceará-Mirim, do curso técnico em Programação de
 Nessa página, vou adicionar algumas informaçãoes sobre minha pessoa. O que eu gosto de fazer, e sobre alguns trabalhos que fiz ao longo do ano.
 # Informações pessoais
 ![](instagram.png)Julianalima14   
-![](gmail.png)Julianabezerra.touros@gmail.com   
+![](gmail.png)Julianabezerra.touros@gmail.com      
 ![](pisterest.jpg)JujuLima
 
 
