@@ -6,7 +6,7 @@ Criando **minha**, _página_, ~~principal~~.
 
 # Quem sou eu
  
-Meu nome é Juliana, estudo no Ifrn (Programação de Jogos Digitais)
+Meu nome é Juliana, estudo no Ifrn (Programação de Jogos Digitais)   
 Tiago Iorc (Crush)
 Biblioteconomia/Administração
 
