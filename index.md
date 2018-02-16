@@ -6,7 +6,7 @@ Criando **minha**, _página_, ~~principal~~.
 
 # Quem sou eu
 
-Aluninho de jogos aprendendo a fazer um portfólio com prof, Marcelo Mesmo.
+Sou uma pessoa que gosto de conhecer coisas novas, sou podree, e todos os dias no almoço como frango.. hummm.. Que Deliciaa
 
 # Portfólio
 
