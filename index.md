@@ -12,6 +12,7 @@ Nessa página, vou adicionar algumas informaçãoes sobre minha pessoa. O que eu
 # Informações pessoais
 ![](instagram.png)Julianalima14   
 ![](gmail.png)Julianabezerra.touros@gmail.com   
+![](pisterest.jpg)JuJuLima
 
 
 
