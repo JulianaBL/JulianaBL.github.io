@@ -18,6 +18,9 @@ Nessa página, vou adicionar algumas informaçãoes sobre minha pessoa. O que eu
 
 # Portfólio
 
+# Frase 
+"A felicidade está nas coisas mais simples da vida."
+
 ## Games
 
  ![](Jogo1.png)(karlagabriella.github.io/Protetores da Floresta/)   
