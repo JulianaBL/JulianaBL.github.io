@@ -25,6 +25,12 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 ![](Foto.jpg)
 # "A felicidade está nas coisas mais simples da vida." 
 
+
+## Empresa
+
+![](JubekaGames.png)
+
+
 ## Games
 [ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)         
 [![](Jogo2.png) ](JulianaBL.github.io/Ventania/)
