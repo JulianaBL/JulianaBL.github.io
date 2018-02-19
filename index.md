@@ -2,12 +2,16 @@
 layout: default
 ---
 
+![](Juliana.jpg)
+
+#"O sorriso esconde infinitos pretextos." 💚
+
 
 # Quem sou eu
 
-![](Juliana.jpg)
-Sou estudante do IFRN/Campus Ceará-Mirim, do curso técnico em Programação de Jogos Digitais. 
-Nessa página, vou adicionar algumas informaçãoes sobre minha pessoa. O que eu gosto de fazer, e sobre alguns trabalhos que fiz ao longo do ano.
+Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim no Curso de Jogos Digitais, estou usando esse site para fazer um portfólio da materia de Motores,com o Professor Marcelo Barbosa. 
+
+
 # Informações pessoais
 ![](instagram.png)Julianalima14   
 ![](gmail.png)Julianabezerra.touros@gmail.com      
@@ -27,8 +31,6 @@ Nessa página, vou adicionar algumas informaçãoes sobre minha pessoa. O que eu
 [ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)  
 
  
-
-[TEXTO QUE VAI APARECER (link)
 
 
 ## Artes
