@@ -13,7 +13,7 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 
 # Informações pessoais
-![](instagram.png)(https://www.instagram.com/_julianalima14/?hl=pt-br)_Julianalima14   
+![](instagram.png)Julianalima14   
 ![](gmail.png)Julianabezerra.touros@gmail.com      
 ![](pisterest.jpg)JujuLima
 
@@ -22,8 +22,9 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 # Portfólio
 
 # Frase Motivadora
-"A felicidade está nas coisas mais simples da vida." 
 ![](Foto.jpg)
+
+# "A felicidade está nas coisas mais simples da vida." 
 
 ## Games
 [ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)         
