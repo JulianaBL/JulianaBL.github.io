@@ -27,7 +27,6 @@ Nessa página, vou adicionar algumas informaçãoes sobre minha pessoa. O que eu
 [![](Jogo2.png) ](JulianaBL.github.io/Ventania/)
 [![](Jogo3.png) ](JulianaBL.github.io/LabyrinthFoodChain/)
  
- [JOGO3] (JulianaBL.github.io/LabyrinthFoodChain/)      
 
 [TEXTO QUE VAI APARECER (link)
 
