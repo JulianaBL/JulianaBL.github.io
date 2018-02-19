@@ -41,6 +41,11 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 ![](pequenoPrincip.jpg)
 
+## Premiações
+![](Imagem01.jpg)
+
+ Concurso de poemas - 1 Lugar 
+
 
 ## Projetos de Extensão
 
