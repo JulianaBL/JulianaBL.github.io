@@ -23,7 +23,7 @@ Nessa página, vou adicionar algumas informaçãoes sobre minha pessoa. O que eu
 ![](Foto.jpg)
 
 ## Games
-[ ![](Jogo1.png)](karlagabriella.github.io/Protetores%20da%20Floresta/)         
+[ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)         
 [![](Jogo2.png) ](JulianaBL.github.io/Ventania/)             
  
  [JOGO3] (JulianaBL.github.io/LabyrinthFoodChain/)      
