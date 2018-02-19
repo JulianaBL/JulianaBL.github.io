@@ -46,7 +46,13 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 
 
-## Projetos
+## Projetos de Extensão
+
+> Projeto Clube Da Leitura
+![](ClubeDaLeitura.jpg)
+
+O projeto “Clube da leitura - IFRN Ceará-Mirim” objetiva estimular e intensificar o interesse pela leitura literária dentro e fora da escola. Para isso, faz-se necessário recorrer a obras de diferentes autores, estilos e escolas literárias. Haverá dois grupos: um no turno matutino e outro no turno vespertino. Os encontros serão mensais, nas segundas-feiras pela manhã e à tarde, a fim de abranger alunos que estudam em ambos os turnos. Neste ano, abriremos, em cada turno, quinze vagas para os alunos do campus e cinco vagas para a comunidade externa. Os participantes serão avaliados a cada encontro, tanto pela assiduidade quanto pela participação ativa. Além disso, os professores envolvidos no projeto terão reuniões mensais com os bolsistas voluntários para organização e planejamento das ações futuras e avaliação dos encontros realizados.
+
 * Proj Teatro 
 * Proj Musica 
 * Proj Jogos
