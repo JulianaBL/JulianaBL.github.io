@@ -6,6 +6,7 @@ layout: default
 
 # "O sorriso esconde infinitos pretextos." -Lucas Lavarini 💚
 
+**********************************************************************
 
 # Quem sou eu
 
