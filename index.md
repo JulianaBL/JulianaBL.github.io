@@ -13,9 +13,9 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 
 # Informações pessoais
-![](Instagram.png) julianalima14
-![](Gmail.png)Julianabezerra.touros@gmail.com      
-![](Pisterest.png)JujuLima
+[![](Instagram.png)](https://www.instagram.com/_julianalima14/?hl=pt-br)
+[![](Gmail.png)](Julianabezerra.touros@gmail.com)      
+[![](Pisterest.png)](https://br.pinterest.com/julianabezerratouros/)
 
 
 
@@ -41,11 +41,10 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 ![Cupcake](https://s3.amazonaws.com/kandipatternspatterns/food/4543-Cupcake.png)
 
-![Sorvete](https://i.pinimg.com/736x/be/a9/fc/bea9fc89d259a120f42ee0e792d0a8df--kandi-sprites.jpg)
 
 ![NOME OPCIONAL](link da imagem)
 
-![](pequenoPrincip.jpg)
+
 
 ## Premiações
 ![](Imagem01.jpg)
