@@ -28,7 +28,7 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 ## Empresa
 
-![](JubekaGames.png)
+![](Jubeka.png)
 
 
 ## Games
@@ -64,6 +64,9 @@ O projeto “Clube da leitura - IFRN Ceará-Mirim” objetiva estimular e intens
 
 Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o objetivo de divulgar a produção acadêmica, artística, cultural e de ensino do Campus Ceará-Mirim, assim como trabalhos relacionados ao eixo tecnológico deste campus, visando informar a comunidade cearamirinense, bem como estimular alunos da região, potenciais ingressantes nos cursos do Campus, a serem alunos do IFRN. Para tanto, os alunos, participantes do projeto, executarão funções administrativas: planejamento, organização, liderança e controle, inerentes a quaisquer processos administrativos, englobando o atendimento ao cliente, a produção de conteúdo e a publicação das notícias na FanPage oficial do IFRN/Ceará-Mirim.
 
+## Influenc Map
+
+![](Influence-Map.pdf)
 
 
 * Proj Teatro 
