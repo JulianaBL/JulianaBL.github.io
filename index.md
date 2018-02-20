@@ -33,9 +33,9 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 ## Games
 [ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)         
-[![](Jogo2.png) ](JulianaBL.github.io/Ventania/)
-[ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)
-[ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/)  
+[![](Jogo2.png) ](JulianaBL.github.io/Ventania/)   
+[ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)   
+[ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/)     
 
  
 ## Artes
