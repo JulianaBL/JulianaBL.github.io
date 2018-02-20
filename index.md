@@ -2,9 +2,9 @@
 layout: default
 ---
  
-   ![](Juliana.jpg)
+   ![](Juliana.jpg)   
+   
 *********************************************************************      
-
 # "O sorriso esconde infinitos pretextos." -Lucas Lavarini 💚
 **********************************************************************   
 
