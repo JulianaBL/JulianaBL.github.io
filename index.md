@@ -66,7 +66,7 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
 
 ## Influenc Map
 
-![](InfluencMap.png)
+   ![](InfluencMap.png)
 
 
 * Proj Teatro 
