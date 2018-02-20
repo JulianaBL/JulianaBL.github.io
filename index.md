@@ -4,7 +4,7 @@ layout: default
 
    ![](Juliana.jpg)
 
-# "O sorriso esconde infinitos pretextos." 💚
+# "O sorriso esconde infinitos pretextos." -Lucas Lavarini 💚
 
 
 # Quem sou eu
