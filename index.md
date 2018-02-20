@@ -22,7 +22,7 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 # Portfólio
 
 # Frase Motivadora
-![](Foto.jpg)
+   ![](Foto.jpg)
 # "A felicidade está nas coisas mais simples da vida." 
 
 
@@ -34,7 +34,8 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 ## Games
 [ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)         
 [![](Jogo2.png) ](JulianaBL.github.io/Ventania/)
-[ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)  
+[ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)
+[ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/)  
 
  
 ## Artes
@@ -49,7 +50,7 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 ## Premiações
 ![](Imagem01.jpg)
 
- Concurso de poemas - 1 Lugar 15/02/2017
+Concurso de poemas - 1 Lugar 15/02/2017
 
 
 ## Projetos de Extensão
