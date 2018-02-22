@@ -28,6 +28,11 @@ Email:Julianabezerra.touros@gmail.com
 
 # ![](Jubeka.png)
 
+## Projeto - Animações
+
+# ![](Animação - Andando.gif)
+
+
 
 ## Games
 [ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)  
