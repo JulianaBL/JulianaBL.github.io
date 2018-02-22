@@ -27,7 +27,6 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
    
 # "A felicidade está nas coisas mais simples da vida." 
 
-
 ## Empresa
 
 # ![](Jubeka.png)
