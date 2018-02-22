@@ -34,10 +34,15 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 ## Games
 [ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)  
 
-> No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim salvar as suas árvores. 
+>Descrição:
+No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim salvar as suas árvores. 
 
-[![](Jogo2.png) ](JulianaBL.github.io/Ventania/)   
-[ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)   
+[![](Jogo2.png) ](JulianaBL.github.io/Ventania/) 
+[ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)
+
+>Descrição:
+É um jogo de labirinto onde o jogador tem que ajudar o personagem a encontrar sua presa correta, jogo educativo voltado para a aréa de Biologia, onde você aprende um pouco sobre as cadeias alimentares terrestres e aquanticas.
+
 [ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/)     
 
  
