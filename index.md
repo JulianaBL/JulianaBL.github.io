@@ -14,8 +14,8 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 
 # Informações pessoais
-[![](Instagram.png)](https://www.instagram.com/_julianalima14/?hl=pt-br)   
-[![](Gmail.png)](Julianabezerra.touros@gmail.com)         
+Email:Julianabezerra.touros@gmail.com
+[![](Instagram.png)](https://www.instagram.com/_julianalima14/?hl=pt-br)       
 [![](Pinterest.png)](https://br.pinterest.com/julianabezerratouros/)   
 
 # Portfólio
@@ -52,10 +52,9 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
  
 ## Artes
 
-![Cupcake](https://s3.amazonaws.com/kandipatternspatterns/food/4543-Cupcake.png)
+# ![](sapo.png)
 
 
-![NOME OPCIONAL](link da imagem)
 
 
 
