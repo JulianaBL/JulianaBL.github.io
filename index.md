@@ -33,7 +33,7 @@ Email:Julianabezerra.touros@gmail.com
 ## Games
 [ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)
 
->Tema: Cultura
+>Tema: Cultura   
 >Descrição:
 No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim salvar as suas árvores. 
 
@@ -53,14 +53,13 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 
 [ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/) 
 
->Tema: Mistério
-
 >Descrição: 
 É um jogo do tipo Tower Defense onde ao decorrer do jogo você tem que ajudar as bacterias boas do intestino a se defender das bacterias ruins. 
 
 ## Mockup
 
 * Mystery Adventure
+>Tema: Mistério
 
 # ![](Mockup.png	)
  
