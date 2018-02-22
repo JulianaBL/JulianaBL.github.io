@@ -35,7 +35,11 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 >Descrição:
 No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim salvar as suas árvores. 
 
-[![](Jogo2.png) ](JulianaBL.github.io/Ventania/)    
+[![](Jogo2.png) ](JulianaBL.github.io/Ventania/)
+
+>Descrição:
+
+
 [ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)
 
 >Descrição:
