@@ -24,7 +24,6 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 # Frase Motivadora
 #  ![](Foto.jpg)
-   
 # "A felicidade está nas coisas mais simples da vida." 
 
 ## Empresa
