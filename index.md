@@ -3,10 +3,10 @@ layout: default
 ---
  
 # ![](Juliana.jpg)   
-   
+*  *   *   
      
 # "O sorriso esconde infinitos pretextos." -Lucas Lavarini 💚
-**********************************************************************   
+ 
 
 # Quem sou eu
 
@@ -55,8 +55,6 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 # ![](Mockup.png	)
  
 ## Artes
-
-
 
 
 
