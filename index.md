@@ -30,7 +30,7 @@ Email:Julianabezerra.touros@gmail.com
 
 ## Projeto - Animações
 
-# ![](Animação - Andando.gif)
+ ![](Animação - Andando.gif)
 
 
 
