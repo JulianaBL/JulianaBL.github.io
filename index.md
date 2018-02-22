@@ -31,22 +31,29 @@ Email:Julianabezerra.touros@gmail.com
 
 
 ## Games
-[ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)  
+[ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)
 
+>Tema: Cultura
 >Descrição:
 No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim salvar as suas árvores. 
 
 [![](Jogo2.png) ](JulianaBL.github.io/Ventania/)
+
+>Tema: Mensagem
 
 >Descrição:
 
 
 [ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)
 
+>Tema: Livre
+
 >Descrição:
 É um jogo de labirinto onde o jogador tem que ajudar o personagem a encontrar sua presa correta, jogo educativo voltado para a aréa de Biologia, onde você aprende um pouco sobre as cadeias alimentares terrestres e aquáticas.
 
-[ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/)     
+[ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/) 
+
+>Tema: Mistério
 
 >Descrição: 
 É um jogo do tipo Tower Defense onde ao decorrer do jogo você tem que ajudar as bacterias boas do intestino a se defender das bacterias ruins. 
