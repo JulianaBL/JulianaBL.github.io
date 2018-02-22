@@ -14,7 +14,7 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 
 # Informações pessoais
-Email:Julianabezerra.touros@gmail.com
+Email:Julianabezerra.touros@gmail.com   
 [![](Instagram.png)](https://www.instagram.com/_julianalima14/?hl=pt-br)       
 [![](Pinterest.png)](https://br.pinterest.com/julianabezerratouros/)   
 
