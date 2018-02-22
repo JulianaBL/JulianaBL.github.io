@@ -41,7 +41,7 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 [ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)
 
 >Descrição:
-É um jogo de labirinto onde o jogador tem que ajudar o personagem a encontrar sua presa correta, jogo educativo voltado para a aréa de Biologia, onde você aprende um pouco sobre as cadeias alimentares terrestres e aquanticas.
+É um jogo de labirinto onde o jogador tem que ajudar o personagem a encontrar sua presa correta, jogo educativo voltado para a aréa de Biologia, onde você aprende um pouco sobre as cadeias alimentares terrestres e aquáticas.
 
 [ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/)     
 
