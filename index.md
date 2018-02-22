@@ -29,7 +29,7 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 ## Empresa
 
-![](Jubeka.png)
+# ![](Jubeka.png)
 
 
 ## Games
