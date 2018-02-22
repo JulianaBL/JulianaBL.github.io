@@ -27,10 +27,6 @@ Email:Julianabezerra.touros@gmail.com
 ## Empresa
 
 # ![](Jubeka.png)
-
-## Projeto - Animações
-
- ![](Animação - Andando.gif)
  
 
 
@@ -63,8 +59,6 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
  
 
 ## Artes
-
-# ![](Bacteria1.png)  # ![](Bacteria2.png)
 
 
 ## Premiações
