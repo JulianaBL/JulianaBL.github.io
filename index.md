@@ -87,14 +87,4 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
 * Proj Musica 
 * Proj Jogos
 
-*  *   *
 
-**negrito    
-_itálico    
-~~riscado   
-3* linha horizontal (barra)
-#s uma ou mais hashtags criam capitulos ou sub
-*s asteristicos criam listas não ordenada
-1s números criam lista ordenada 
-
-*  *  * 
