@@ -48,7 +48,7 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 [ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/)     
 
 >Descrição: 
-É um jogo do tipo Tower Defense onde ao decorrer do jogo você tem que 
+É um jogo do tipo Tower Defense onde ao decorrer do jogo você tem que ajudar as bacterias boas do intestino a se defender das bacterias ruins. 
  
 ## Artes
 
