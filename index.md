@@ -31,8 +31,7 @@ Email:Julianabezerra.touros@gmail.com
 ## Projeto - Animações
 
  ![](Animação - Andando.gif)
- ![](Animação2.gif)
-
+ 
 
 
 ## Games
