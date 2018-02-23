@@ -26,26 +26,27 @@ Email:Julianabezerra.touros@gmail.com
 
 ## Empresa
 
+# ![](CottonCandyGames.png)
 # ![](Jubeka.png)
  
 ## Games
 [ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)
 
 * Tema: Cultura   
->Descrição:<   
+>Descrição<:  
 No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim salvar as suas árvores.
 
-[![](Jogo2.png) ](JulianaBL.github.io/Ventania/)
+[![]() ](JulianaBL.github.io/Ventania/)
 
 * Tema: Mensagem
->Descrição:<   
+>Descrição<:   
 O objetivo do jogo Ventania e fazer com que o jogador coloque as  cartas corretas no correio, para assim poder ganhar a sua devida pontuação.
 
 
 [ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)
 
 * Tema: Livre
->Descrição:<      
+>Descrição<:      
 É um jogo de labirinto onde o jogador tem que ajudar o personagem a encontrar sua presa correta, jogo educativo voltado para a aréa de Biologia, onde você aprende um pouco sobre as cadeias alimentares terrestres e aquáticas.
 
 [ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/) 
