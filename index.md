@@ -61,7 +61,7 @@ O objetivo do jogo Ventania e fazer com que o jogador coloque as  cartas correta
 
 ## Mockup
 
->Tema: Mistério
+* Tema: Mistério
 * Mystery Adventure
 
 # ![](Mockup.png	)
