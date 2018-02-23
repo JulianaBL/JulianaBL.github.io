@@ -69,9 +69,9 @@ O objetivo do jogo Ventania e fazer com que o jogador coloque as  cartas correta
 
 ## Artes
  
-![](Bac1.png)   ![](sapo.png)      
-![](Bac2.png)      
-![](Bac4.png)           
+![](Bac1.png)   
+![](sapo.png)      
+         
    
 
 ## Premiações
