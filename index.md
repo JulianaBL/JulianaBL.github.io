@@ -33,7 +33,7 @@ Email:Julianabezerra.touros@gmail.com
 
 * Tema: Cultura   
 >Descrição:
-No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim salvar as suas árvores. 
+No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim salvar as suas árvores.<
 
 [![](Jogo2.png) ](JulianaBL.github.io/Ventania/)
 
@@ -45,13 +45,13 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 
 * Tema: Livre
 >Descrição:
-É um jogo de labirinto onde o jogador tem que ajudar o personagem a encontrar sua presa correta, jogo educativo voltado para a aréa de Biologia, onde você aprende um pouco sobre as cadeias alimentares terrestres e aquáticas.
+É um jogo de labirinto onde o jogador tem que ajudar o personagem a encontrar sua presa correta, jogo educativo voltado para a aréa de Biologia, onde você aprende um pouco sobre as cadeias alimentares terrestres e aquáticas.<
 
 [ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/) 
 
 * Tema: Saúde
 >Descrição: 
-É um jogo do tipo Tower Defense onde ao decorrer do jogo você tem que ajudar as bactérias boas do intestino a se defender das bactérias ruins. 
+É um jogo do tipo Tower Defense onde ao decorrer do jogo você tem que ajudar as bactérias boas do intestino a se defender das bactérias ruins.< 
 
 ## Mockup
 
@@ -109,9 +109,9 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
     
 ## Registros Pôr do sol 
 
-   # ![](F1.jpg)
-   # ![](F2.jpg)
-   # ![](F3.jpg)
+   # ![](F1.jpg)   
+   # ![](F2.jpg)   
+   # ![](F3.jpg)   
     
 
 
