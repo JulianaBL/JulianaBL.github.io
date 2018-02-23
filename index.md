@@ -115,7 +115,7 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
 * Passear com a familia;   
 * Ler livros acumulados.   
    
-## Viajens IFRN
+## Viagens IFRN
 * Currais Novos    
    ![](foto1.JPG) ![](foto2.JPG)    
 
