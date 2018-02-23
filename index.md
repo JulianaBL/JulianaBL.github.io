@@ -63,12 +63,10 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 
 ## Artes
  
- ![](Bac1.png)   ![](sapo.png)      
+![](Bac1.png)   ![](sapo.png)      
 ![](Bac2.png)      
 ![](Bac4.png)           
    
-
-
 
 ## Premiações
 ![](Imagem01.jpg)
@@ -107,7 +105,13 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
    ![](foto1.JPG) ![](foto2.JPG)    
 
 * Macau/RN
-    # ![](foto6.jpg	)   
+    # ![](foto6.jpg	) 
+    
+## Registros Pôr do sol 
+
+   # ![](F1.jpg)
+   # ![](F2.jpg)
+   # ![](F3.jpg)
     
 
 
