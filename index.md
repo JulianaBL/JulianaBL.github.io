@@ -132,9 +132,7 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
 ![](F2.jpg)   
 ![](F3.jpg) 
 
-## Israel💚
 
-![](Irsael.jpg)
     
 
 
