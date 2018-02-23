@@ -66,8 +66,8 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 ![](Bac1.png) 
 
 
-![](Bac2.png)   
-![](Bac4.png)
+![](Bac2.png)   ![](Bac4.png)   ![](Bac3.png)   
+![](sapo.png)
 
 ## Premiações
 ![](Imagem01.jpg)
