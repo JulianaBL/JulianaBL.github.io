@@ -102,7 +102,7 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
 * Ler livros acumulados.   
    
 ## Viajens IFRN
-
+* 
    ![](foto1.JPG) ![](foto2.JPG)    
 
 * Macau/RN
@@ -110,6 +110,7 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
     ![](F4.jpg)
     
 ## Registros Pôr do sol 
+📷_JulianaLima14
 
 ![](F1.jpg)   
 ![](F2.jpg)   
