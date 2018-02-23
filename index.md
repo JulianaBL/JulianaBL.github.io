@@ -110,6 +110,7 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
     ![](F4.jpg)
     ![](F6.jpg)
     ![](F7.jpg)
+    ![](F8.jpg)
     
 ## Registros Pôr do sol 
 📷_JulianaLima14
