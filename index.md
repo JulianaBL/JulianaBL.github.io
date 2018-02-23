@@ -38,26 +38,25 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 [![](Jogo2.png) ](JulianaBL.github.io/Ventania/)
 
 >Tema: Mensagem
-
 >Descrição:  
 
 
 [ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)
 
 >Tema: Livre
-
 >Descrição:
 É um jogo de labirinto onde o jogador tem que ajudar o personagem a encontrar sua presa correta, jogo educativo voltado para a aréa de Biologia, onde você aprende um pouco sobre as cadeias alimentares terrestres e aquáticas.
 
 [ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/) 
 
+>Tema: Saúde
 >Descrição: 
-É um jogo do tipo Tower Defense onde ao decorrer do jogo você tem que ajudar as bacterias boas do intestino a se defender das bacterias ruins. 
+É um jogo do tipo Tower Defense onde ao decorrer do jogo você tem que ajudar as bactérias boas do intestino a se defender das bactérias ruins. 
 
 ## Mockup
 
-* Mystery Adventure
 >Tema: Mistério
+* Mystery Adventure
 
 # ![](Mockup.png	)
  
@@ -69,7 +68,6 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 ![](Imagem01.jpg)
 
 Concurso de poemas - 1 Lugar 15/02/2017
-
 
 ## Projetos de Extensão
 
@@ -83,8 +81,7 @@ O projeto “Clube da leitura - IFRN Ceará-Mirim” objetiva estimular e intens
 Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o objetivo de divulgar a produção acadêmica, artística, cultural e de ensino do Campus Ceará-Mirim, assim como trabalhos relacionados ao eixo tecnológico deste campus, visando informar a comunidade cearamirinense, bem como estimular alunos da região, potenciais ingressantes nos cursos do Campus, a serem alunos do IFRN. Para tanto, os alunos, participantes do projeto, executarão funções administrativas: planejamento, organização, liderança e controle, inerentes a quaisquer processos administrativos, englobando o atendimento ao cliente, a produção de conteúdo e a publicação das notícias na FanPage oficial do IFRN/Ceará-Mirim.
 
 >Projeto Jogos: Realizados na disciplina de motores e oficina de jogos.
-
->Projeto Pesquisa: Rio Maceió e seus Impactos ambientais
+>Projeto Pesquisa: Rio Maceió e seus Impactos ambientais.
 
 ## Influence Map
 
@@ -98,6 +95,10 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
 * Passear com a familia;   
 * Ler livros acumulados.   
    
+## Viajens IFRN
+
+! [](foto1.JPG)      ![](foto2.JPG)
+
 
 
 
