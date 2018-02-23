@@ -10,7 +10,7 @@ layout: default
 
 # Quem sou eu
 
-Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim no Curso de Jogos Digitais, estou usando esse site para fazer um portfólio da materia de Motores,com o Professor Marcelo Barbosa. 
+Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim no Curso de Jogos Digitais, estou usando esse site para fazer um portfólio da materia de Motores, com o Professor Marcelo Barbosa. 
 
 
 # Informações pessoais
@@ -28,8 +28,6 @@ Email:Julianabezerra.touros@gmail.com
 
 # ![](Jubeka.png)
  
-
-
 ## Games
 [ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)
 
