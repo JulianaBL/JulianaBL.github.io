@@ -88,7 +88,7 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
 
 ## Influence Map
 
-   ![](Influence Map.png)
+   ![](InfluenceMap.png)
    
 
 
