@@ -92,11 +92,11 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
    
 ## O que faço nos meus tempos livres? Além de estudar.
 
-> Ir a praia;
-> Igreja;
-> Andar de Bicicleta com os Primos;
-> Passear com a familia;
-> Ler livros acumulados;
+> Ir a praia;   
+> Igreja;   
+> Andar de Bicicleta com os Primos;   
+> Passear com a familia;   
+> Ler livros acumulados;   
    
 
 
