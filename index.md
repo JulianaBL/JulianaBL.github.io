@@ -72,9 +72,9 @@ O objetivo do jogo Ventania e fazer com que o jogador coloque as  cartas correta
 ![](Bac1.png)   
 
 ![](sapo.png)  
+![](Caramujo.png)   
 ![](Ave.png)
-![](Caramujo.png)
-![]()
+
          
    
 
