@@ -63,11 +63,13 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 
 ## Artes
  
-![](Bac1.png) 
+![](Bac1.png)    
+![](Bac2.png)      
+![](Bac4.png)      
+![](Bac3.png)     
+![](sapo.png)   
 
 
-![](Bac2.png)   ![](Bac4.png)   ![](Bac3.png)   
-![](sapo.png)
 
 ## Premiações
 ![](Imagem01.jpg)
