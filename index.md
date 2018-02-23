@@ -69,7 +69,8 @@ O objetivo do jogo Ventania e fazer com que o jogador coloque as  cartas correta
 
 ## Artes
  
-* Jogo: Bowel Game
+* Jogo: Bowel Game   
+
 ![](Intestino.png)   
 ![](Bac1.png)    
 ![](Virus.png)   
