@@ -38,7 +38,8 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 [![](Jogo2.png) ](JulianaBL.github.io/Ventania/)
 
 * Tema: Mensagem
->Descrição:<     
+>Descrição:<   
+O objetivo do jogo Ventania e fazer com que o jogador coloque as  cartas corretas no correio, para assim poder ganhar a sua devida pontuação.
 
 
 [ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)
@@ -105,7 +106,8 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
    ![](foto1.JPG) ![](foto2.JPG)    
 
 * Macau/RN
-    # ![](foto6.jpg	) 
+    ![](F5.jpg)
+    ![](F4.jpg)
     
 ## Registros Pôr do sol 
 
