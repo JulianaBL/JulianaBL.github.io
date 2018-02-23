@@ -24,7 +24,7 @@ Email:Julianabezerra.touros@gmail.com
 #  ![](Foto.jpg)
 # "A felicidade está nas coisas mais simples da vida." 
 
-## Empresa
+## Empresas
 
 # ![](CottonCandyGames.png)
 # ![](Jubeka.png)
