@@ -15,7 +15,7 @@ Meu nome é Juliana Bezerra de Lima, tenho 17 anos estudo no Ifrn/Ceará-Mirim n
 
 # Informações pessoais
 Email:Julianabezerra.touros@gmail.com   
-[![](Instagram.png)](https://www.instagram.com/_julianalima14/?hl=pt-br)       
+[![](Instagram.png)](https://www.instagram.com/_julianalima14/)       
 [![](Pinterest.png)](https://br.pinterest.com/julianabezerratouros/)   
 
 # Portfólio
@@ -32,8 +32,8 @@ Email:Julianabezerra.touros@gmail.com
 [ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)
 
 * Tema: Cultura   
->Descrição:
-No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim salvar as suas árvores.<
+>Descrição:   
+No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim salvar as suas árvores.
 
 [![](Jogo2.png) ](JulianaBL.github.io/Ventania/)
 
@@ -44,14 +44,14 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 [ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)
 
 * Tema: Livre
->Descrição:
-É um jogo de labirinto onde o jogador tem que ajudar o personagem a encontrar sua presa correta, jogo educativo voltado para a aréa de Biologia, onde você aprende um pouco sobre as cadeias alimentares terrestres e aquáticas.<
+>Descrição:   
+É um jogo de labirinto onde o jogador tem que ajudar o personagem a encontrar sua presa correta, jogo educativo voltado para a aréa de Biologia, onde você aprende um pouco sobre as cadeias alimentares terrestres e aquáticas.
 
 [ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/) 
 
 * Tema: Saúde
->Descrição: 
-É um jogo do tipo Tower Defense onde ao decorrer do jogo você tem que ajudar as bactérias boas do intestino a se defender das bactérias ruins.< 
+>Descrição:    
+É um jogo do tipo Tower Defense onde ao decorrer do jogo você tem que ajudar as bactérias boas do intestino a se defender das bactérias ruins.
 
 ## Mockup
 
