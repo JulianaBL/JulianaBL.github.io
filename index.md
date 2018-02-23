@@ -108,6 +108,8 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
 * Macau/RN
     ![](F5.jpg)
     ![](F4.jpg)
+    ![](F6.jpg)
+    ![](F7.jpg)
     
 ## Registros Pôr do sol 
 📷_JulianaLima14
