@@ -69,14 +69,14 @@ O objetivo do jogo Ventania e fazer com que o jogador coloque as  cartas correta
 
 ## Artes
  
-* Jogo: Tower Defense 
-![](Bac1.png) 
-![](Virus.png)
+* Jogo: Tower Defense    
+![](Bac1.png)    
+![](Virus.png)   
 
 * Jogo: Labirinto
-![](sapo.png)  
-![](Caramujo.png)   
-![](Ave.png)
+![](sapo.png)     
+![](Caramujo.png)      
+![](Ave.png)   
 
          
    
