@@ -81,8 +81,6 @@ O objetivo do jogo Ventania e fazer com que o jogador coloque as  cartas correta
 ![](Ave.png)   
 
          
-   
-
 ## Premiações
 ![](Imagem01.jpg)
 
@@ -132,7 +130,11 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
 
 ![](F1.jpg)   
 ![](F2.jpg)   
-![](F3.jpg)   
+![](F3.jpg) 
+
+## Israel💚
+
+![](Irsael.jpg)
     
 
 
