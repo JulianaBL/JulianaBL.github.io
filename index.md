@@ -106,7 +106,7 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
 
    ![](foto3.jpg)     
    
-   ![](foto4.jpg) ![](foto5.jpg)  
+   ![](foto5.jpg)  
 
 
 
