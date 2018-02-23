@@ -97,7 +97,7 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
    
 ## Viajens IFRN
 
-   ![](foto1.JPG)     
+   ![](foto1.JPG) ![](foto2.JPG)    
 
 
 
