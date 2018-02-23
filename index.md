@@ -41,7 +41,7 @@ No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão 
 
 >Tema: Mensagem
 
->Descrição:
+>Descrição:  
 
 
 [ ![](Jogo3.png)](JulianaBL.github.io/LabyrinthFoodChain/)
@@ -84,7 +84,7 @@ O projeto “Clube da leitura - IFRN Ceará-Mirim” objetiva estimular e intens
 
 Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o objetivo de divulgar a produção acadêmica, artística, cultural e de ensino do Campus Ceará-Mirim, assim como trabalhos relacionados ao eixo tecnológico deste campus, visando informar a comunidade cearamirinense, bem como estimular alunos da região, potenciais ingressantes nos cursos do Campus, a serem alunos do IFRN. Para tanto, os alunos, participantes do projeto, executarão funções administrativas: planejamento, organização, liderança e controle, inerentes a quaisquer processos administrativos, englobando o atendimento ao cliente, a produção de conteúdo e a publicação das notícias na FanPage oficial do IFRN/Ceará-Mirim.
 
-## Influenc Map
+## Influence Map
 
    ![](InfluencMap.png)
 
