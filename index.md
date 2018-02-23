@@ -100,11 +100,13 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
    ![](foto1.JPG) ![](foto2.JPG)    
 
 * Macau/RN
-    # ![] (foto6.jpg	)
+    # ![](foto6.jpg	)
     
 * Amigos
 
-   ![](foto3.jpg)  ![](foto4.jpg) ![](foto5.jpg)  ![](foto5.jpg)
+   ![](foto3.jpg)     
+   
+   ![](foto4.jpg) ![](foto5.jpg)  
 
 
 
