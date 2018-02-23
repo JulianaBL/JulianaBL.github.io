@@ -36,7 +36,7 @@ Email:Julianabezerra.touros@gmail.com
 [ ![](Jogo1.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)   
  
 * Descrição:  
-No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim salvar as suas árvores.
+No jogo Protetores da Floresta com a sua ajuda o Saci ou Curupira tem a missão de salvar a floresta dos lenhadores para assim proteger a sua floresta.
 
 * Tema: Mensagem   
 
