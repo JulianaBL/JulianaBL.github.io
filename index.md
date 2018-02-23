@@ -102,7 +102,7 @@ Este projeto visa criar uma empresa fictícia, denominada PraVcComunidade, com o
 * Ler livros acumulados.   
    
 ## Viajens IFRN
-* 
+* Currais Novos    
    ![](foto1.JPG) ![](foto2.JPG)    
 
 * Macau/RN   
