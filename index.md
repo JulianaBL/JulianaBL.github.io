@@ -10,7 +10,7 @@ layout: default
 
 # Quem sou eu?
 
-Me chamo Juliana Lima, tenho 17 anos, estudo no Ifrn/Ceará-Mirim, no Curso Técnico de Progamação de Jogos Digitais, estou usando esse site para fazer um portfólio da materia de Motores, com o Professor Marcelo Barbosa. 
+Me chamo Juliana Lima, tenho 18 anos, estudo no Ifrn/Ceará-Mirim, no Curso Técnico de Progamação de Jogos Digitais, estou usando esse site para fazer um portfólio da materia de Motores, com o Professor Marcelo Barbosa. 
 
 
 # Informações pessoais
